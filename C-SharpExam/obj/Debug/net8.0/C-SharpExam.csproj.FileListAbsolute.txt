@@ -32,3 +32,8 @@ C:\Users\koick\OneDrive\Desktop\C#Exam\C-SharpExam\C-SharpExam\obj\Debug\net8.0\
 C:\Users\koick\OneDrive\Desktop\C#Exam\C-SharpExam\C-SharpExam\obj\Debug\net8.0\C-SharpExam.genruntimeconfig.cache
 C:\Users\koick\OneDrive\Desktop\C#Exam\C-SharpExam\C-SharpExam\obj\Debug\net8.0\ref\C-SharpExam.dll
 C:\Users\koick\OneDrive\Desktop\C#Exam\C-SharpExam\C-SharpExam\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\koick\OneDrive\Desktop\C#Exam\C-SharpExam\C-SharpExam\obj\Debug\net8.0\C-SharpExam.sourcelink.json
+C:\Users\koick\OneDrive\Desktop\C#Exam\C-SharpExam\C-SharpExam\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\koick\OneDrive\Desktop\C#Exam\C-SharpExam\C-SharpExam\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\koick\OneDrive\Desktop\C#Exam\C-SharpExam\C-SharpExam\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\koick\OneDrive\Desktop\C#Exam\C-SharpExam\C-SharpExam\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll

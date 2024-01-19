@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lUeIrPOtnD8tuwzSfU+Sdzlu5fX3E3wYy5JiV1mpZ+s=",
+  "Hash": "Zm+1oR97Qb17GNnHAcdLbTddyGkxicy1vHTJ1cAnjr4=",
   "Source": "C-SharpExam",
   "BasePath": "_content/C-SharpExam",
   "Mode": "Default",
@@ -1193,6 +1193,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\koick\\OneDrive\\Desktop\\C#Exam\\C-SharpExam\\C-SharpExam\\wwwroot\\pictures\\pie_chart.png",
+      "SourceId": "C-SharpExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\koick\\OneDrive\\Desktop\\C#Exam\\C-SharpExam\\C-SharpExam\\wwwroot\\",
+      "BasePath": "_content/C-SharpExam",
+      "RelativePath": "pictures/pie_chart.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pictures\\pie_chart.png"
     }
   ]
 }

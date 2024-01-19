@@ -245,6 +245,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\koick\\OneDrive\\Desktop\\C#Exam\\C-SharpExam\\C-SharpExam\\wwwroot\\pictures\\pie_chart.png",
+      "PackagePath": "staticwebassets\\pictures\\pie_chart.png"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.C-SharpExam.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

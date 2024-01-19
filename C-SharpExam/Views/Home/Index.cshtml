@@ -1,6 +1,8 @@
 ﻿@using C_SharpExam.DTO
 @{
     ViewData["Title"] = "Home Page";
+
+    
 }
 @model List<EmployeeGroupDto>
 
@@ -23,4 +25,8 @@
 
         </tbody>
     </table>
+    <a class="btn btn-primary" href="/Home/GeneratePieChart" download="pie_chart.png">Generate Pie Chart</a>
+
 </div>
+
+

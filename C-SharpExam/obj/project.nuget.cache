@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "j365XMoqcQM7gTR4tyDgTMhbv8hl1dGSyeRqvGlf9fHvweYr6ZGfuwBXNvNUM3B2IhpTiqzRZLkSmQ2FKPVyXQ==",
+  "dgSpecHash": "LPUFtxRL4+0M9vx+Q9N8QlLEgGR8234ffDx87eZl+Yx2RS/HzGF2g+BC/GesLCJwclttn1JWr0B3kwuqgQFegQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\koick\\OneDrive\\Desktop\\C#Exam\\C-SharpExam\\C-SharpExam\\C-SharpExam.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\koick\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\koick\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\koick\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\koick\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
     "C:\\Users\\koick\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\koick\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
   ],
